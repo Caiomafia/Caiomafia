@@ -20,7 +20,7 @@
   </p>
   
   <p align="center">
-    Já  manda uma solicitação  aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    Já  manda uma solicitação  aí e vem codar comigo, sua contribuição será muito bem vinda, vlw mesmo! 😉️
   </p>
   
 </div>
